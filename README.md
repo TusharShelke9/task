@@ -37,3 +37,7 @@ deploy:
 using alpine image 
 
 ![Screenshot (172)](https://user-images.githubusercontent.com/94424237/165456257-01f7d391-3ff6-4222-87f2-e89e8eca6d97.png)
+
+docker running containers and images
+![Screenshot (176)](https://user-images.githubusercontent.com/94424237/165899553-e95c171c-bd52-4620-9343-0889cc38047c.png)
+
